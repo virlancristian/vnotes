@@ -1,7 +1,11 @@
 ## vNotes v0.1.0b
 
 vNotes is a mobile app dedicated to creating text notes.
-This project started with the idea in mind that even apps dedicated for basic day-to-day usages are filled with unnecessary features such as signing in with official accounts like Samsung, Google, or Apple, or containing cookies / ads which can be really frustrating.With these ideas in mind, vNotes is designed to be a simple text editor for storing notes in electronic form, within just one press of a button, no unnecessary intermediate steps.
+
+This project started with the idea in mind that even apps dedicated for basic day-to-day usages are filled with unnecessary features such as signing in with official accounts like Samsung, Google, or Apple, or containing cookies / ads which can be really frustrating.
+
+With these ideas in mind, vNotes is designed to be a simple text editor for storing notes in electronic form, within just one press of a button, no unnecessary intermediate steps.
+
 The application is currently in beta, so if you're encountering any issues with the app, feel free to [contact](#contact) the developer
 
 ## Table of contents
@@ -23,7 +27,7 @@ The application is currently in beta, so if you're encountering any issues with 
 - [Specified required specs for running Android Studio](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio#0)
 
 ## Download links
-- [APK official release]()
+- [APK official release](https://github.com/virlancristian/vnotes/releases/tag/release-v0.1.0b)
 
 ## Documentation
 Coming soon!
